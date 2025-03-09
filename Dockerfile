@@ -1,17 +1,22 @@
-# Use the official Node.js image as a base
 FROM node:20.4-bookworm-slim
 
-# Set the working directory in the container
+# Install Git
+RUN apt-get update && apt-get install -y git
+
+# Install pnpm globally
+RUN npm install -g pnpm
+
+# Set the working directory
 WORKDIR /usr/src/app
 
-# Copy the rest of the application code
+# Copy the entire application code
 COPY . .
 
-# Install dependencies directly (if you have a way to specify them, else this step assumes they are already included)
-RUN npm install
+# Install dependencies
+RUN pnpm install
 
-# Expose the port the app runs on
+# Expose the application port
 EXPOSE 8181
 
 # Command to run the application
-CMD ["node", "index.js"]
+CMD ["pnpm", "start"]
