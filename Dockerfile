@@ -1,6 +1,6 @@
 FROM node:20.4-bookworm-slim
 
-# Install Git
+# Install Git and other necessary packages
 RUN apt-get update && apt-get install -y git
 
 # Install pnpm globally
@@ -13,7 +13,7 @@ WORKDIR /usr/src/app
 COPY . .
 
 # Install dependencies
-RUN pnpm install
+RUN pnpm install --frozen-lockfile
 
 # Expose the application port
 EXPOSE 8181
