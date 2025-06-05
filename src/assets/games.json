@@ -14,9 +14,31 @@
     "proxy": true
   },
   {
+    "name": "Crazy Cattle 3D",
+    "image": "crazycattle.webp",
+    "url": "https://yujiandemo.com/",
+    "new": true,
+    "proxy": true,
+    "top": true
+  },
+  {
+    "name": "Papa's Cheezeria",
+    "image": "papascheese.webp",
+    "url": "https://papasgamesfree.io/flipline/papas-cheeseria/",
+    "new": true,
+    "proxy": true
+  },
+  {
     "name": "Sausage Flip",
     "image": "sausageflip.webp",
     "url": "https://b1d3aec5-9ce6-4594-a03c-b16800650df0.poki-gdn.com/5ca822fd-ad50-4b5a-8817-91a4e4f0e1c1/index.html?country=US&amp;ccpaApplies=0&amp;url_referrer=https%3A%2F%2Fpoki.com%2F&amp;tag=pg-f0e2210ee52f43a739fcb9af425ccdc48e0f4e6f&amp;site_id=3&amp;iso_lang=en&amp;poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fsausage-flip&amp;hoist=yes&amp;nonPersonalized=n&amp;familyFriendly=n&amp;categories=9%2C37%2C103%2C839%2C1013%2C1137%2C1139%2C1140%2C1141%2C1190&amp;ab=6b2076f9c2fa162199fe491f83ee1f2f273f2222&amp;experiment=a-d50e9ec5&amp;game_id=b1d3aec5-9ce6-4594-a03c-b16800650df0&amp;game_version_id=5ca822fd-ad50-4b5a-8817-91a4e4f0e1c1&amp;inspector=0&amp;csp=1",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Bit Flappy Tower Tiny Square",
+    "image": "bigflappy.webp",
+    "url": "https://games.crazygames.com/en_US/big-flappy-tower-vs-tiny-square/index.html?skipPrerollFirstSessionExp25=&v=1.330",
     "new": true,
     "proxy": true
   },
@@ -28,11 +50,258 @@
     "proxy": true
   },
   {
+    "name": "Brain Rot Clicker",
+    "image": "brainrot.webp",
+    "url": "https://games.crazygames.com/en_US/italian-brainrot-clicker-usp/index.html",
+    "new": true,
+    "proxy": true,
+    "top": true
+  },
+  {
+    "name": "Speed Stars Racing",
+    "image": "speedstars.webp",
+    "url": "https://speedstarsgame.com/gg/speed-stars/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Pokemon Emerald",
+    "image": "pokemon.webp",
+    "url": "https://chiboga.github.io/chilibowlflash/GBA-gh-pages/launcher.html#pokemonemerald",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "House of Hazards",
+    "image": "houseofhazards.webp",
+    "url": "https://kdata1.com/2020/10/House_of_Hazards/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Babel Tower",
+    "image": "babeltower.webp",
+    "url": "https://www.coolmathgames.com/0-babel-tower/play",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Pokemon Ruby",
+    "image": "pokemonruby.webp",
+    "url": "https://static.arcadespot.com/retroemulator.php?system=gba&game=2015/12/pokemon-ruby.zip",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Grand Action Simulator New York",
+    "image": "grandaction.webp",
+    "url": "https://games.crazygames.com/en_US/grand-action-simulator-new-york-car-gang/index.html?skipPrerollFirstSessionExp25=true&v=1.330",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Game of life",
+    "image": "gameoflife.webp",
+    "url": "https://playgameoflife.com/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Space Waves",
+    "image": "spacewaves.webp",
+    "url": "https://games.crazygames.com/en_US/space-waves/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Gats.io",
+    "image": "gatsio.webp",
+    "url": "https://gats.io/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Taming.io",
+    "image": "tamingio.webp",
+    "url": "https://taming.io/",
+    "new": true,
+    "proxy": true
+  },
+  {
     "name": "Baby Sniper In Vietnam",
     "image": "babysniper.webp",
     "url": "https://html-classic.itch.zone/html/10450244/index.html",
     "new": true,
     "top": true,
+    "proxy": true
+  },
+  {
+    "name": "Run 3",
+    "image": "run3.webp",
+    "url": "https://www.coolmathgames.com/0-run-3/play",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Territorial.io",
+    "image": "territorialio.webp",
+    "url": "https://territorial.io/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Sandbox City",
+    "image": "sandbox-city.webp",
+    "url": "https://games.crazygames.com/en_US/sandbox-city---cars-zombies-ragdolls/index.html?v=1.327",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "GeoFS Flight Simulator",
+    "image": "geofs.webp",
+    "url": "https://www.geo-fs.com/geofs.php?v=3.9",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Slice Master",
+    "image": "slicemaster.webp",
+    "url": "https://www.coolmathgames.com/0-slice-master/play",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Two Hands of Satan",
+    "image": "twohandsofsatan.webp",
+    "url": "https://html-classic.itch.zone/html/11888883/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Baby The Great",
+    "image": "babythegreat.webp",
+    "url": "https://html-classic.itch.zone/html/9184803/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Soldier of Ruins",
+    "image": "soilderofruins.webp",
+    "url": "https://html-classic.itch.zone/html/13108166/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Time shooter 2",
+    "image": "timeshooter.webp",
+    "url": "https://games.crazygames.com/en_US/time-shooter-2/index.html?v=1.326",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Five Nights at Freddy's 1",
+    "image": "freddy.webp",
+    "url": "https://run3.io/popgame/fnaf/fnaf1/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Five Nights at Freddy's 2",
+    "image": "freddy2.webp",
+    "url": "https://run3.io/popgame/fnaf/fnaf2.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Bit Planes",
+    "image": "bitplanes.webp",
+    "url": "https://html-classic.itch.zone/html/10450244/index.html",
+    "new": true,
+    "top": true,
+    "proxy": true
+  },
+  {
+    "name": "The Surreptitious Operation",
+    "image": "thesurreptitiouspoeration.webp",
+    "url": "https://html-classic.itch.zone/html/11709191/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Gears Of Babies",
+    "image": "gearsofbabies.webp",
+    "url": "https://html-classic.itch.zone/html/7508667/index.html?v=1732313656",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Henry Stickman Collection",
+    "image": "henrystickman.webp",
+    "url": "https://henrystickmin.io/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Rocket Dancer",
+    "image": "rocketdancer.webp",
+    "url": "https://www.coolmathgames.com/0-rocket-dancer/play",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Football Bros",
+    "image": "footballbros.webp",
+    "url": "https://fb.dunkinthe.net/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "YoHoHo",
+    "image": "yohoho-io.webp",
+    "url": "https://yohoho.io/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Sprunki Pyramixed",
+    "image": "SP.webp",
+    "url": "https://wowtbc.net/sprunkin/sprunki-pyramixed/index.html",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Legends of IdleOn",
+    "image": "lpio.webp",
+    "url": "https://www.legendsofidleon.com/ytGl5oc/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Ship Lander",
+    "image": "lander.webp",
+    "url": "https://ehmorris.com/lander/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Tradecraft",
+    "image": "tradecraft.webp",
+    "url": "https://www.coolmathgames.com/0-tradecraft/play",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Ragdoll Archers",
+    "image": "ragdollarchers.webp",
+    "url": "https://bitlifeonline.github.io/ragdoll-archers/",
+    "new": true,
+    "proxy": true
+  },
+  {
+    "name": "Air Dogs of WW2",
+    "image": "airdogsofww2.webp",
+    "url": "https://www.friv.com/z/games/airdogsofww2/index-x.html",
+    "new": true,
     "proxy": true
   },
   {
@@ -67,7 +336,7 @@
     "name": "Smashy Road",
     "image": "smashyroad.webp",
     "url": "https://smashy-road.io/smashy-road.embed",
-    "new": true,
+    "new": false,
     "proxy": true
   },
   {
@@ -76,7 +345,7 @@
     "url": "https://1v1.lol",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "1v1space",
@@ -126,7 +395,7 @@
     "url": "https://hexgl.bkcore.com/play/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Offline Paradise",
@@ -164,7 +433,7 @@
     "url": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A-FAK0S&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=21580307-9bb3-4130-84d6-32b3ec1c9c97&fg_beat=159&original_ref=https%3A%2F%2Fwww.gamepix.com%2Fplay%2Fadventure-drivers",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Ages of Conflict",
@@ -172,7 +441,7 @@
     "url": "https://html-classic.itch.zone/html/8495606/index.html",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Alien Hominid",
@@ -186,7 +455,7 @@
     "url": "https://ubg100.github.io/games/align4/align4host.html",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Amidst the Sky",
@@ -194,7 +463,7 @@
     "url": "https://www.coolmathgames.com/0-amidst-the-sky/play",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Among Us",
@@ -202,7 +471,7 @@
     "url": "https://amongusplay.online/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Angry Sharks",
@@ -234,7 +503,7 @@
     "url": "https://www.coolmathgames.com/0-awesome-tanks-2/play",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Backrooms",
@@ -242,7 +511,7 @@
     "url": "https://backroomsgame.io/game/backrooms/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Bad Ice Cream",
@@ -250,7 +519,7 @@
     "url": "https://7fb1fd45-24ce-4ade-b5c4-9ee55ec99526.poki-gdn.com/403f9f7f-52b0-4fa1-a4c2-c46883d239b6/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fwww.nitrome.com%2F&game_id=7fb1fd45-24ce-4ade-b5c4-9ee55ec99526&game_version_id=403f9f7f-52b0-4fa1-a4c2-c46883d239b6&inspector=0",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Bad Ice Cream 2",
@@ -258,7 +527,7 @@
     "url": "https://f1a2e68b-413f-4ed0-896c-e14bd97e30c3.poki-gdn.com/6dd890f7-a0fc-4b3f-94b0-5a72a476d61f/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fwww.nitrome.com%2F&game_id=f1a2e68b-413f-4ed0-896c-e14bd97e30c3&game_version_id=6dd890f7-a0fc-4b3f-94b0-5a72a476d61f&inspector=0",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Bad Ice Cream 3",
@@ -266,7 +535,7 @@
     "url": "https://games.poki.com/458768/5b5f8af1-684b-4557-a71b-a865cf564b1d?tag=pg-f0e2210ee52f43a739fcb9af425ccdc48e0f4e6f&site_id=3&iso_lang=en&country=US&poki_url=https://poki.com/en/g/bad-ice-cream-3&hoist=yes&nonPersonalized=n&familyFriendly=n&categories=38,72,103,750,792,839,1154,1156,1180,1191,1194,1197,1201&ab=6b2076f9c2fa162199fe491f83ee1f2f273f2222&experiment=a-d50e9ec5&special_condition=landing",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Baldi's Basics",
@@ -274,7 +543,7 @@
     "url": "https://gamepotty.com/games/baldis-basics/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Basket Random",
@@ -282,15 +551,15 @@
     "url": "https://files.twoplayergames.org/files/games/other/Basket_Random/index.html",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Basketball Stars",
     "image": "basketballstars.webp",
-    "url": "https://5dd33196-015f-11ea-ad56-9cb6d0d995f7.poki-gdn.com/36935933-5052-4dad-80ac-ae6f13020276/index.html?country=US&ccpaApplies=0&url_referrer=https%3A%2F%2Fpoki.com%2F&tag=pg-f0e2210ee52f43a739fcb9af425ccdc48e0f4e6f&site_id=3&iso_lang=en&poki_url=https%3A%2F%2Fpoki.com%2Fen%2Fg%2Fbasketball-stars&hoist=yes&nonPersonalized=n&familyFriendly=n&categories=2%2C76%2C130%2C750%2C775%2C929%2C1103%2C1109%2C1123%2C1139%2C1140%2C1147%2C1168%2C1193%2C1201%2C1202&ab=6b2076f9c2fa162199fe491f83ee1f2f273f2222&experiment=a-d50e9ec5&special_condition=landing&game_id=5dd33196-015f-11ea-ad56-9cb6d0d995f7&game_version_id=36935933-5052-4dad-80ac-ae6f13020276&inspector=0&csp=1",
+    "url": "https://basketball-stars.io/game/basketball-stars/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Basketbros.io",
@@ -298,7 +567,7 @@
     "url": "https://basketbros.io/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Battle for Gondor",
@@ -318,7 +587,7 @@
     "url": "https://bitlifesimulator.io/game/bitlife/",
     "new": false,
     "proxy": true,
-    "updated": true
+    "updated": false
   },
   {
     "name": "Black Hole Square",
@@ -782,7 +1051,7 @@
     "name": "Geoguessr",
     "image": "geoguessr.webp",
     "url": "https://www.geoguessr.com/",
-    "new": true,
+    "new": false,
     "proxy": true
   },
   {
@@ -1257,7 +1526,7 @@
     "name": "Roblox (Now.gg)",
     "image": "roblox.webp",
     "url": "https://now.gg/apps/a/10020/b.html",
-    "new": true,
+    "new": false,
     "proxy": true,
     "top": true,
     "exp": true
@@ -1285,7 +1554,7 @@
     "image": "retrobowl.webp",
     "url": "https://retrobowlcollege.co/retro-bowl/",
     "new": false,
-    "updated": true,
+    "updated": false,
     "top": true,
     "proxy": true
   },
@@ -1367,7 +1636,7 @@
     "name": "Stick Slasher",
     "image": "stickslasher.webp",
     "url": "https://html-classic.itch.zone/html/8532900/StickWeb/index.html",
-    "new": true,
+    "new": false,
     "proxy": true
   },
   {
